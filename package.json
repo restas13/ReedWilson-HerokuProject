@@ -20,7 +20,10 @@
   "homepage": "https://github.com/restas13/ReedWilson-HerokuProject#readme",
   "dependencies": {
     "express": "^4.18.2",
+    "fs": "^0.0.1-security",
     "mysql2": "^3.5.1",
-    "sequelize": "^6.32.1"
+    "sequelize": "^6.32.1",
+    "util": "^0.12.5",
+    "uuid": "^3.4.0"
   }
 }
